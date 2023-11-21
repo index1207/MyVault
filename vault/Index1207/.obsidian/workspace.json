@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3c8c8551cb7dbab0",
+        "id": "144de3e70a5664b6",
         "type": "tabs",
         "children": [
           {
-            "id": "4656dedc82645210",
+            "id": "42783352ee29795f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Develop/Language/C++/Smart Pointer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Language/C++/Smart Pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Language/C++/Smart Pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Develop/Language/C++/Smart Pointer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfdc1a0df7e1e539",
+  "active": "42783352ee29795f",
   "lastOpenFiles": [
+    "Algorithm/Data Structure/Stack.md",
+    "Algorithm/Graph/Dijikstra.md",
+    "Network/OSI 7 Layer/Network layer/Routing/Routing.md",
+    "Network/OSI 7 Layer/Network layer/Routing/Flooding.md",
+    "Network/OSI 7 Layer/Network layer/Routing/Algorithm",
+    "Network/OSI 7 Layer/Network layer/Routing",
+    "Algorithm/Graph",
     "Network/OSI 7 Layer/Network layer/IP.md",
+    "Develop/Language/C++/Smart Pointer.md",
+    "GSM-CONF/openNuGet.png",
+    "GSM-CONF/NuGet.md",
+    "GSM-CONF",
     "Network/Dev/IOCP.md",
     "Network/Dev/Socket.md",
-    "Develop/Language/C++/Smart Pointer.md",
     "Network/OSI 7 Layer/Network layer",
     "Note/🎉옵시디언 시작!.md",
     "Algorithm/Data Structure/자료구조.md",
@@ -166,14 +168,8 @@
     "2023-11-18.md",
     "Network/RFC/UDP.md",
     "Develop/Language/C#",
-    "Develop/Language/C++",
-    "Develop/Language",
-    "Network/OSI 7 Layer",
-    "OS/Linux",
     "Network/전송계층.md",
     "Untitled.canvas",
-    "Algorithm/Data Structure/Stack.md",
-    "선형자료구조.md",
-    "Untitled.md"
+    "선형자료구조.md"
   ]
 }
